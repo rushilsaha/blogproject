@@ -1,6 +1,6 @@
 # React-Relay App
 
-This project is a blog application that uses React, Relay, Express, GraphQL, and sqlite3,
+This project is a blog application that uses React, Relay, Express, GraphQL, sqlite3,
 and Material Design Lite. The user can add and delete blogs that have separate blog pages
 where users can comment on and discuss the blog together.
 
